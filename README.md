@@ -1,1 +1,1 @@
-This is maddie's first gir project
+This is maddie's first project
